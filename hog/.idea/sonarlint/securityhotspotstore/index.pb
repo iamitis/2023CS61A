@@ -1,0 +1,22 @@
+
+C
+default_graphics.py,a\2\a226aeb96a1518613c2e8b8fc8a8c296086bf9dd
+;
+tests/01.py,3\2\3239da92420dd2e7cfd56813b177a307fb6a294d
+;
+tests/02.py,0\c\0c0dd71684d99b5a2268808f3b581df64f06e107
+;
+tests/04.py,9\a\9a652738852d48e2bb3b9a9e33054ad59eb7cd0b
+;
+tests/05.py,4\a\4aed4e08610ca5c5a1eb87daef0e12ad88c29760
+9
+	hog_ui.py,5\b\5ba0e140298ccafadcc9af4e8beaf27eb90e51ca
+;
+tests/07.py,5\7\575a8c662c0a633ebe87ac4f43abe513f66bb35a
+7
+dice.py,6\1\61311d14d5b043e1f1e6642721968475c8cc3df4
+:
+
+hog_gui.py,3\9\39a5c351762c2bb89135166b3951b83440728556
+6
+hog.py,9\3\938bf1e6a3fc2e16ebfc3991ae477b3ac7bcd37d

@@ -1,0 +1,6 @@
+
+Upython:S1481Â"0Remove the unused local variable "word_indices".(Ì¼»®ùÿÿÿÿ8Ò¤»¤²1
+Wpython:S1481Á"2Remove the unused local variable "player_indices".(×ÃşÖÿÿÿÿÿ8á¤»¤²1
+Jpython:S6660Ü"%Use the `isinstance()` function here.(™”—ÿÿÿÿÿ8ñ¤»¤²1
+Epython:S6660İ"%Use the `isinstance()` function here.(Åÿ„Õ8ñ¤»¤²1
+lpython:S1226§"LIntroduce a new variable or use its initial value before reassigning 'args'.(çÄó¡8ñ¤»¤²1

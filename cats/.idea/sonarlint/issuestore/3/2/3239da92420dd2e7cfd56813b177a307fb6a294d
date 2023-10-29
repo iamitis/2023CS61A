@@ -1,0 +1,9 @@
+
+ƒpython:S1192t"åDefine a constant instead of duplicating this literal r"""
+          >>> ps = []
+          >>> s = lambda p: False
+          >>> pick(ps, s, 0)
+          ''
+          >>> pick(ps, s, 1)
+          ''
+          """ 15 times.(ÓŠÉçýÿÿÿÿ
